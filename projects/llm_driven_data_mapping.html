@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LLM Domain Mapper – Project Detail</title>
+  <style>
+    body {
+      font-family: Calibri, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      background-color: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      font-style: italic;
+      color: #666;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      line-height: 1.7;
+      margin-bottom: 1.2rem;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 1.5rem auto;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 2rem;
+      text-decoration: none;
+      color: #007acc;
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
+    }
+
+    code {
+      background: #f0f0f0;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.95rem;
+    }
+
+    pre {
+      background: #f0f0f0;
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>LLM-based Domain Mapper</h1>
+    <p class="subtitle">Semantic translation between financial and healthcare records using large language models.</p>
+
+    <p>
+      This project explores how large language models (LLMs) like GPT-4 can be used to semantically map data from one domain (e.g., healthcare) to another (e.g., finance), preserving meaning while rephrasing structure and context.
+    </p>
+
+    <p>
+      The core of the system uses an encoder-decoder pipeline where raw tabular or JSON data is first converted into a semantic embedding. An LLM is then prompted with structured instructions to output the same data conceptually, but framed using the ontology and terminology of the target domain.
+    </p>
+
+    <img src="img/mapping-diagram.png" alt="Mapping Architecture Diagram" />
+
+    <h2>Use Case Example</h2>
+    <p>
+      In this demo, we mapped a medical record describing a patient’s treatment history into a format used by insurance claims processors. The LLM successfully translated ICD codes into claim billing categories, patient summaries into premium-impact narratives, and timelines into structured event logs.
+    </p>
+
+    <img src="img/embedding-flow.svg" alt="Embedding and Prompt Flow" />
+
+    <h2>How it Works</h2>
+    <pre><code>
+// Pseudo-prompt sent to the LLM
+
+"Input: {
+  'diagnosis': 'Hypertension',
+  'procedure': 'ECG',
+  'date': '2023-04-01'
+}
+
+Task: Translate this into an insurance claim format using financial domain terminology."
+    </code></pre>
+
+    <p>
+      The model responded with:
+    </p>
+
+    <pre><code>{
+  "service_type": "Cardiology",
+  "billing_code": "99284",
+  "diagnosis_mapped": "High blood pressure",
+  "claim_date": "2023-04-01"
+}
+    </code></pre>
+
+    <p>
+      We also implemented a feedback loop using vector similarity scoring to validate the accuracy of mappings based on both domain-specific knowledge bases and few-shot learning examples.
+    </p>
+
+    <a href="../index.html" class="back-link">← Back to homepage</a>
+  </div>
+</body>
+</html>
