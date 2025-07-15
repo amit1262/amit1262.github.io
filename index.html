@@ -11,6 +11,7 @@
       background-color: #f4f4f4;
       color: #333;
     }
+
     .container {
       max-width: 800px;
       margin: 4rem auto;
@@ -20,6 +21,7 @@
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       text-align: center;
     }
+
     img.profile {
       width: 150px;
       height: 150px;
@@ -27,30 +29,101 @@
       object-fit: cover;
       margin-bottom: 1rem;
     }
+
     h1 {
       margin: 0.5rem 0;
       font-size: 2rem;
     }
+
     h2 {
       margin: 0;
       font-weight: normal;
       color: #666;
     }
-    p.bio {
-      margin-top: 1.5rem;
+
+    .tabs {
+      margin-top: 2rem;
+      display: flex;
+      justify-content: center;
+      border-bottom: 2px solid #eee;
+    }
+
+    .tab {
+      padding: 0.75rem 1.5rem;
+      cursor: pointer;
+      font-weight: bold;
+      color: #555;
+      border-bottom: 3px solid transparent;
+    }
+
+    .tab.active {
+      border-bottom: 3px solid #007acc;
+      color: #007acc;
+    }
+
+    .tab-content {
+      text-align: left;
+      padding-top: 2rem;
+      display: none;
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+
+    .tab-content p {
       line-height: 1.6;
       font-size: 1.1rem;
+    }
+
+    .projects ul {
+      list-style-type: square;
+      padding-left: 1.5rem;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Profile Picture" class="profile" />
+    <img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
     <h1>John Doe</h1>
     <h2>Software Engineer & Tech Enthusiast</h2>
-    <p class="bio">
-      Hi! I'm John, a full-stack developer passionate about building scalable web applications and exploring the intersection of technology and society. With a background in computer science and over 6 years of industry experience, I love solving real-world problems with clean, maintainable code. In my free time, I enjoy hiking, photography, and contributing to open-source projects.
-    </p>
+
+    <div class="tabs">
+      <div class="tab active" onclick="showTab('intro')">Introduction</div>
+      <div class="tab" onclick="showTab('projects')">Key Projects</div>
+    </div>
+
+    <div id="intro" class="tab-content active">
+      <p>
+        Hi! I'm John, a full-stack developer passionate about building scalable web applications and exploring the intersection of technology and society. With over 6 years of experience in the tech industry, I enjoy crafting clean, efficient code and contributing to open-source communities.
+      </p>
+    </div>
+
+    <div id="projects" class="tab-content projects">
+      <ul>
+        <li><strong>OpenWeatherMap Dashboard</strong>: Built a responsive weather dashboard using React and OpenWeatherMap API.</li>
+        <li><strong>TaskTracker</strong>: A minimalist to-do app built with vanilla JS and localStorage.</li>
+        <li><strong>SmartPort Vision AI</strong>: Developed a container proximity monitoring tool for port safety using YOLO and DeepSORT.</li>
+      </ul>
+    </div>
   </div>
+
+  <script>
+    function showTab(tabId) {
+      const tabs = document.querySelectorAll('.tab');
+      const contents = document.querySelectorAll('.tab-content');
+
+      tabs.forEach(tab => {
+        tab.classList.remove('active');
+      });
+
+      contents.forEach(content => {
+        content.classList.remove('active');
+      });
+
+      document.querySelector('.tab[onclick*="' + tabId + '"]').classList.add('active');
+      document.getElementById(tabId).classList.add('active');
+    }
+  </script>
 </body>
 </html>
