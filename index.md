@@ -11,7 +11,6 @@ title: Amit Sharma - Portfolio
     <link rel="stylesheet" href="styles.css">
 </head>
 -->
-
 <body>
     <div class="container">
         <!--<img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
