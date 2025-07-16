@@ -1,106 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>John Doe - Personal Site</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-
-    .container {
-      max-width: 800px;
-      margin: 4rem auto;
-      padding: 2rem;
-      background-color: white;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      text-align: center;
-    }
-
-    img.profile {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-bottom: 1rem;
-    }
-
-    h1 {
-      margin: 0.5rem 0;
-      font-size: 2rem;
-    }
-
-    h2 {
-      margin: 0;
-      font-weight: normal;
-      color: #666;
-    }
-
-    .tabs {
-      margin-top: 2rem;
-      display: flex;
-      justify-content: center;
-      border-bottom: 2px solid #eee;
-    }
-
-    .tab {
-      padding: 0.75rem 1.5rem;
-      cursor: pointer;
-      font-weight: bold;
-      color: #555;
-      border-bottom: 3px solid transparent;
-    }
-
-    .tab.active {
-      border-bottom: 3px solid #007acc;
-      color: #007acc;
-    }
-
-    .tab-content {
-      text-align: left;
-      padding-top: 2rem;
-      display: none;
-    }
-
-    .tab-content.active {
-      display: block;
-    }
-
-    .tab-content p {
-      line-height: 1.6;
-      font-size: 1.1rem;
-    }
-
-    .projects ul {
-      list-style-type: square;
-      padding-left: 1.5rem;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amit Sharma - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-  <div class="container">
-    <img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
-    <h1>Amit Sharma, PhD </h1>
+    <div class="container">
+        <img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
+        <h1>Amit Sharma, PhD</h1>
 
-    <h3> Machine Learning | Deep Learning | Generative AI | NLP | LLMs | Computer Vision </h3>
+        <h3>Machine Learning | Deep Learning | Generative AI | NLP | LLMs | Computer Vision</h3>
 
-    <div class="tabs">
-      <div class="tab active" onclick="showTab('intro')">Introduction</div>
-      <div class="tab" onclick="showTab('projects')">Key Projects</div>
-    </div>
+        <div class="tabs">
+            <div class="tab active" onclick="showTab('intro')">Introduction</div>
+            <div class="tab" onclick="showTab('projects')">Key Projects</div>
+        </div>
 
-    <div id="intro" class="tab-content active">
-      <h3>Background</h3> 
-      <p style="font-family: Calibri, sans-serif;">
-        I am a researcher working in the domains of generative AI (GenAI), deep learning, computer vision, and IoT systems. I have hands-on experience (5+ years) developing ML algorithms, computer vision techniques, customization and transfer-learning of various deep learning models. So far, I have worked on multiple sensing modalities including RGB/visible-light cameras, infrared (IR) cameras, magnetic switches, audio sensors, RADAR/LiDAR & air-quality sensors.
-      </p>
-      <h3>Education</h3> 
-      <pre style="font-family: Calibri, sans-serif;">
+        <div id="intro" class="tab-content active">
+            <h3>Background</h3>
+            <p style="font-family: Calibri, sans-serif;">
+                I am a researcher working in the domains of generative AI (GenAI), deep learning, computer vision, and
+                IoT systems. I have hands-on experience (5+ years) developing ML algorithms, computer vision techniques,
+                customization and transfer-learning of various deep learning models. So far, I have worked on multiple
+                sensing modalities including RGB/visible-light cameras, infrared (IR) cameras, magnetic switches, audio
+                sensors, RADAR/LiDAR & air-quality sensors.
+            </p>
+            <h3>Education</h3>
+            <pre style="font-family: Calibri, sans-serif;">
         <b>PhD in Computer Science (2015 – 2021)</b>
         SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank"> Prof Archan Misra </a>
         Dissertation: Vision-based Analytics for Improved AI-driven IoT Applications [<a href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>]
@@ -111,38 +41,19 @@
         <b>B.Tech in Computer Science (2008-2012)</b>
         GJ University of Science & Technology, Hisar
       </pre>
-      
+        </div>
+
+        <div id="projects" class="tab-content projects">
+            <h3>Key Projects</h3>
+            <ul>
+                <li><strong>LLM Based Data Mapping</strong>: Built an LLM-based data mapping system where input data is
+                    in non-OMOP format and the output
+                    is in OMOP format. <a href="projects/llm_driven_data_mapping.html"> More Details </a></li>
+            </ul>
+        </div>
     </div>
 
-    <div id="projects" class="tab-content projects">
-      <ul>
-        <li><strong>LLM Based Data Mapping</strong>: Built an LLM-based data mapping system where input data is in non-OMOP format and the output 
-        is in OMOP format. <a href="projects/llm_driven_data_mapping.html"> More Details </a> </li>
-
-        <li><strong>LLM Based Data Mapping</strong>: Built an LLM-based data mapping system where input data is in non-OMOP format and the output 
-        is in OMOP format. <a href="projects/llm_driven_data_mapping.html"> More Details </a> </li>
-        
-        
-      </ul>
-    </div>
-  </div>
-
-  <script>
-    function showTab(tabId) {
-      const tabs = document.querySelectorAll('.tab');
-      const contents = document.querySelectorAll('.tab-content');
-
-      tabs.forEach(tab => {
-        tab.classList.remove('active');
-      });
-
-      contents.forEach(content => {
-        content.classList.remove('active');
-      });
-
-      document.querySelector('.tab[onclick*="' + tabId + '"]').classList.add('active');
-      document.getElementById(tabId).classList.add('active');
-    }
-  </script>
+    <script src="scripts.js"></script>
 </body>
+
 </html>
