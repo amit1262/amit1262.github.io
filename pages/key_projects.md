@@ -5,22 +5,20 @@ permalink: /projects
 ---
 
 <section class="projects">
-  <article class="project">
-    <h2>LLM-based Cross-Domain Data Mapping</h2>
-    <p><strong>Summary:</strong>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
-    <img src="img/amit_hd.jpg" alt="Diagram for Project 1">
-    <p></p>
+  <article class="project-summary">
+    <h2><a href="/projects/llm_based_data_mapping.html">LLM-based Cross-Domain Data Mapping</a></h2>
+    <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
   </article>
 
-  <article class="project">
-    <h2>Project Title</h2>
-    <p><strong>Summary:</strong> AI system for XYZ...</p>
-    <details>
-        <summary>View full details</summary>
-        <p>Full explanation, diagrams, models used, architecture, etc.</p>
-        <img src="images/project1_diagram.webp" alt="Diagram">
-    </details>
-</article>
+  <article class="project-summary">
+    <h2><a href="/projects/natural_language_video_analysis.html">Natural Language based Event Detection in Videos</a></h2>
+    <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
+  </article>
+
+  <article class="project-summary">
+    <h2><a href="/projects/smrtfridge.html">SmrtFridge: IoT-based, User Interaction-driven Food Item & Quantity Sensing</a></h2>
+    <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
+  </article>
 
   <!-- Repeat for more projects -->
 </section>
