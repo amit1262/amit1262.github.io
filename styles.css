@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-
+/*
 .profile {
     display: block;
     margin: 0 auto;
@@ -17,7 +17,7 @@ body {
     width: 150px;
     height: 150px;
 }
-
+*/
 h1,
 h3 {
     text-align: center;
@@ -95,42 +95,60 @@ h3 {
     flex-wrap: wrap;
     gap: 20px;
     padding: 10px 0;
-    background: #f2f2f2;
+    /*background: #f2f2f2;*/
+    background: transparent;
 }
 
 .page-menu a {
     text-decoration: none;
-    color: #333;
+    color: white;
     font-weight: bold;
     padding: 8px 12px;
     border-radius: 6px;
     transition: background 0.2s;
 }
 
+/*
 .page-menu a:hover,
 .page-menu a.active {
     background: #007acc;
     color: white;
+}*/
+
+/* header top */
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 /* Social Icons */
-.social-icons {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-    margin-top: 10px;
+.social-icons a {
+    font-size: 36px;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
 }
 
-.social-icons a {
-    color: #333;
-    font-size: 28px;
-    text-decoration: none;
-    transition: color 0.2s ease-in-out;
+.social-icons a.linkedin {
+    color: #0077b5;
+    /* LinkedIn blue */
+}
+
+.social-icons a.scholar {
+    color: #4285f4;
+    /* Google Scholar blue */
+}
+
+.social-icons a.email {
+    color: #d44638;
+    /* Gmail red */
 }
 
 .social-icons a:hover {
-    color: #0077b5;
-    /* You can adjust per brand */
+    transform: scale(1.1);
+    /* Optional zoom effect */
 }
 
 /* Ensure the header is responsive */
@@ -159,13 +177,13 @@ h3 {
 }
 
 /* Adjust font sizes for smaller screens */
-.project-name {
+.name {
     font-size: 2rem;
     /* Adjust font size for the name */
     margin: 5px 0;
 }
 
-.project-tagline {
+.tagline {
     font-size: 1.2rem;
     /* Adjust font size for the tagline */
     margin: 5px 0;
@@ -178,12 +196,12 @@ h3 {
         /* Reduce padding further for smaller screens */
     }
 
-    .project-name {
+    .name {
         font-size: 1.5rem;
         /* Smaller font size for the name */
     }
 
-    .project-tagline {
+    .tagline {
         font-size: 1rem;
         /* Smaller font size for the tagline */
     }
