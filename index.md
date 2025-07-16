@@ -1,3 +1,8 @@
+---
+layout: default
+title: Amit Sharma - Portfolio
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,10 +39,10 @@
         <b>PhD in Computer Science (2015 – 2021)</b>
         SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank"> Prof Archan Misra </a>
         Dissertation: Vision-based Analytics for Improved AI-driven IoT Applications [<a href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>]
-    
+
         <b>M.Tech in Mobile & Ubiquitous Computing (2012-2014)</b>
         IIIT Delhi | Advisor: <a href="https://www.vinayaknaik.info/" target="_blank"> Prof Vinayak Naik </a>
-        
+
         <b>B.Tech in Computer Science (2008-2012)</b>
         GJ University of Science & Technology, Hisar
       </pre>
@@ -54,6 +59,7 @@
     </div>
 
     <script src="scripts.js"></script>
+
 </body>
 
 </html>
