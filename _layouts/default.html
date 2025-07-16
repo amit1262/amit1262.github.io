@@ -37,6 +37,11 @@
                 <i class="fas fa-envelope"></i>
             </a>
         </div>
+        <nav class="page-menu">
+            <a href="/" {% if page.url=='/home/' %}class="active" {% endif %}>Home</a>
+            <a href="/experience" {% if page.url=='/projects/' %}class="active" {% endif %}>Experience</a>
+            <a href="/projects" {% if page.url=='/certificates/' %}class="active" {% endif %}>Projects</a>
+        </nav>
     </header>
 
     <main id="content" class="main-content" role="main">

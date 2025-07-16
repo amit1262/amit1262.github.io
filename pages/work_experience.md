@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction
-permalink: /introduction/
+title: Work Experience
+permalink: /experience
 ---
 
 <body>
@@ -17,7 +17,8 @@ permalink: /introduction/
         <h3>Education</h3>
         <p style="font-family: Calibri, sans-serif;">
             <b>PhD in Computer Science (2015 – 2021)</b> <br />
-            SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank"> Prof
+            SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank">
+                Prof
                 Archan Misra </a> <br />
             Dissertation: Vision-based Analytics for Improved AI-driven IoT Applications [<a
                 href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>] <br /><br />
@@ -28,26 +29,8 @@ permalink: /introduction/
             GJ University of Science & Technology, Hisar <br />
         </p>
         <h3>Professional Certificates</h3>
-        <div class="cert-gallery">
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-            <a href="certificates/amit_hd.jpg" target="_blank">
-                <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
-            </a>
-        </div>
+
     </div>
     <script src="/scripts.js"></script>
+
 </body>
