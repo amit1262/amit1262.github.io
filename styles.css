@@ -88,6 +88,26 @@ h3 {
     transform: scale(1.05);
 }
 
+/* Social Icons */
+.social-icons {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: #333;
+    font-size: 28px;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #0077b5;
+    /* You can adjust per brand */
+}
+
 /* Ensure the header is responsive */
 .page-header {
     padding: 10px;
