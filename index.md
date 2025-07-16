@@ -20,7 +20,7 @@ permalink: /
             SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank"> Prof
                 Archan Misra </a> <br />
             Dissertation: Vision-based Analytics for Improved AI-driven IoT Applications [<a
-                href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>] <br /><br />
+                href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>] <br/><br/>
             <b>M.Tech in Mobile & Ubiquitous Computing (2012-2014)</b> <br />
             IIIT Delhi | Advisor: <a href="https://www.vinayaknaik.info/" target="_blank"> Prof Vinayak Naik </a>
             <br /><br />
