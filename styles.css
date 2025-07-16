@@ -58,3 +58,59 @@ h3 {
     list-style-type: square;
     padding-left: 1.5rem;
 }
+
+/* Ensure the header is responsive */
+.page-header {
+    padding: 10px;
+    /* Reduce padding for smaller screens */
+    text-align: center;
+    /* Center content horizontally */
+    display: flex;
+    flex-direction: column;
+    /* Stack content vertically */
+    align-items: center;
+    /* Center content vertically */
+}
+
+/* Make the profile image responsive */
+.profile {
+    max-height: 150px;
+    /* Limit the maximum height */
+    width: auto;
+    /* Maintain aspect ratio */
+    max-width: 100%;
+    /* Ensure it doesn't overflow the screen */
+    margin-bottom: 10px;
+    /* Add spacing below the image */
+}
+
+/* Adjust font sizes for smaller screens */
+.project-name {
+    font-size: 2rem;
+    /* Adjust font size for the name */
+    margin: 5px 0;
+}
+
+.project-tagline {
+    font-size: 1.2rem;
+    /* Adjust font size for the tagline */
+    margin: 5px 0;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .page-header {
+        padding: 5px;
+        /* Reduce padding further for smaller screens */
+    }
+
+    .project-name {
+        font-size: 1.5rem;
+        /* Smaller font size for the name */
+    }
+
+    .project-tagline {
+        font-size: 1rem;
+        /* Smaller font size for the tagline */
+    }
+}
