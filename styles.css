@@ -122,12 +122,14 @@ h3 {
 }
 
 .social-icons a.linkedin {
-    color: #0077b5;
+    background-color: #0077b5;
+    color: white;
     /* LinkedIn blue */
 }
 
 .social-icons a.scholar {
-    color: #4285f4;
+    background-color: #0077b5;
+    color: white;
     /* Google Scholar blue */
 }
 
