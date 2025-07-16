@@ -9,15 +9,7 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-/*
-.profile {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-}
-*/
+
 h1,
 h3 {
     text-align: center;
@@ -85,7 +77,7 @@ h3 {
 }
 
 .cert-gallery a:hover {
-    transform: scale(1.15);
+    transform: scale(1.5);
 }
 
 /* Page Menu */
@@ -108,34 +100,28 @@ h3 {
 /* header top */
 .header-top {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.header-container {
+    display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* Vertical centering */
+    gap: 30px;
+    /* Space between image and text */
     flex-wrap: wrap;
-    gap: 16px;
+    /* Makes it responsive on small screens */
+    padding: 20px;
 }
 
 /* Social Icons */
 .social-icons a {
-    font-size: 36px;
+    font-size: 24px;
     text-decoration: none;
     transition: transform 0.2s ease-in-out;
-}
-
-.social-icons a.linkedin {
-    background-color: #0077b5;
     color: white;
-    /* LinkedIn blue */
-}
-
-.social-icons a.scholar {
-    background-color: #0077b5;
-    color: white;
-    /* Google Scholar blue */
-}
-
-.social-icons a.email {
-    color: #d44638;
-    /* Gmail red */
 }
 
 .social-icons a:hover {
