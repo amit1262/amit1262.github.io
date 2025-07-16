@@ -161,13 +161,13 @@ h3 {
 
 /* Adjust font sizes for smaller screens */
 .name {
-    font-size: 1.3rem;
+    font-size: 2rem;
     /* Adjust font size for the name */
     margin: 5px 0;
 }
 
 .tagline {
-    font-size: 1rem;
+    font-size: 1.2rem;
     /* Adjust font size for the tagline */
     margin: 5px 0;
 }
@@ -180,12 +180,12 @@ h3 {
     }
 
     .name {
-        font-size: 1rem;
+        font-size: 1.5rem;
         /* Smaller font size for the name */
     }
 
     .tagline {
-        font-size: 0.8rem;
+        font-size: 1rem;
         /* Smaller font size for the tagline */
     }
 
