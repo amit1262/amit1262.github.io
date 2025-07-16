@@ -19,7 +19,7 @@ title: Amit Sharma
                 sensors, RADAR/LiDAR & air-quality sensors.
             </p>
             <h3>Education</h3>
-            <pre style="font-family: Calibri, sans-serif;">
+            <p style="font-family: Calibri, sans-serif;">
                 <b>PhD in Computer Science (2015 – 2021)</b>
                 SMU, Singapore | Advisor: <a href="https://faculty.smu.edu.sg/profile/archan-misra-376" target="_blank"> Prof Archan Misra </a>
                 Dissertation: Vision-based Analytics for Improved AI-driven IoT Applications [<a href="https://ink.library.smu.edu.sg/etd_coll/321/" target="_blank"> Link </a>]
@@ -27,7 +27,28 @@ title: Amit Sharma
                 IIIT Delhi | Advisor: <a href="https://www.vinayaknaik.info/" target="_blank"> Prof Vinayak Naik </a>
                 <b>B.Tech in Computer Science (2008-2012)</b>
                 GJ University of Science & Technology, Hisar
-            </pre>
+            </p>
+            <h3>Professional Certificates</h3>
+            <div class="cert-gallery">
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+                <a href="certificates/amit_hd.jpg" target="_blank">
+                    <img src="certificates/amit_hd.jpg" alt="ML Certificate" />
+                </a>
+            </div>
         </div>
         <div id="projects" class="tab-content projects">
             <h3>Key Projects</h3>
