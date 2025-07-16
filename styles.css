@@ -95,6 +95,7 @@ h3 {
     color: white;
     font-weight: bold;
     padding: 8px 12px;
+    font-size: 16px;
 }
 
 /* header top */
@@ -118,7 +119,7 @@ h3 {
 
 /* Social Icons */
 .social-icons a {
-    font-size: 24px;
+    font-size: 12px;
     text-decoration: none;
     transition: transform 0.2s ease-in-out;
     color: white;
