@@ -15,11 +15,11 @@ title: Amit Sharma - Portfolio
 
 <body>
     <div class="container">
-        <img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
+        <!--<img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
         <h1>Amit Sharma, PhD</h1>
-
         <h3>Machine Learning | Deep Learning | Generative AI | NLP | LLMs | Computer Vision</h3>
-
+        -->
+        
         <div class="tabs">
             <div class="tab active" onclick="showTab('intro')">Introduction</div>
             <div class="tab" onclick="showTab('projects')">Key Projects</div>
