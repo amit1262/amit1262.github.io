@@ -28,29 +28,29 @@ permalink: /
     </p>
     <h3>Professional Certificates</h3>
     <div class="cert-gallery">
-        <a href="certificates/dl_specialization.pdf" target="_blank">
-            <img src="certificates/dl_specialization.pdf" alt="ML Certificate" />
+        <a href="certificates/dl_specialization.webp" target="_blank">
+            <img src="certificates/dl_specialization.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/ml_production.pdf" target="_blank">
-            <img src="certificates/ml_production.pdf" alt="ML Certificate" />
+        <a href="certificates/ml_production.webp" target="_blank">
+            <img src="certificates/ml_production.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/cnn.pdf" target="_blank">
-            <img src="certificates/cnn.pdf" alt="ML Certificate" />
+        <a href="certificates/cnn.webp" target="_blank">
+            <img src="certificates/cnn.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/sequence_models.pdf" target="_blank">
-            <img src="certificates/sequence_models.pdf" alt="ML Certificate" />
+        <a href="certificates/sequence_models.webp" target="_blank">
+            <img src="certificates/sequence_models.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/intro_genAI.pdf" target="_blank">
-            <img src="certificates/intro_genAI.pdf" alt="ML Certificate" />
+        <a href="certificates/intro_genAI.webp" target="_blank">
+            <img src="certificates/intro_genAI.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/hyperparameters.pdf" target="_blank">
-            <img src="certificates/hyperparameters.pdf" alt="ML Certificate" />
+        <a href="certificates/hyperparameters.webp" target="_blank">
+            <img src="certificates/hyperparameters.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/strcturing_ml_projects.pdf" target="_blank">
-            <img src="certificates/strcturing_ml_projects.pdf" alt="ML Certificate" />
+        <a href="certificates/strcturing_ml_projects.webp" target="_blank">
+            <img src="certificates/strcturing_ml_projects.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/neural_net_dl.pdf" target="_blank">
-            <img src="certificates/neural_net_dl.pdf" alt="ML Certificate" />
+        <a href="certificates/neural_net_dl.webp" target="_blank">
+            <img src="certificates/neural_net_dl.webp" alt="ML Certificate" />
         </a>
     </div>
 </div>
