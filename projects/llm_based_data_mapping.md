@@ -1,3 +1,9 @@
+---
+layout: default
+title: LLM-based Cross-Domain Data Mapping
+permalink: /llm-based-mapping
+---
+
 <h1> Turning Chaos into Consistency: Using LLMs to Map Medical Data to OMOP CDM</h1>
 
 <p>Medical research thrives on <strong>data standardization</strong>. But in the real world, data is messy — especially

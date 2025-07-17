@@ -6,7 +6,7 @@ permalink: /projects
 
 <section class="projects">
   <article class="project-summary">
-    <h2><a href="/projects/llm_based_data_mapping.html">LLM-based Cross-Domain Data Mapping</a></h2>
+    <h2><a href="/llm-based-mapping">LLM-based Cross-Domain Data Mapping</a></h2>
     <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
   </article>
 
