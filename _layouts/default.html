@@ -23,7 +23,7 @@
 <body>
     <header class="page-header" role="banner">
         <div class="header-container">
-            <img src="img/amit_hd.jpg" alt="Profile Picture" class="profile" />
+            <img src="/img/amit_hd.jpg" alt="Profile Picture" class="profile" />
             <div class="header-top">
                 <h2 class="name">Amit Sharma, PhD</h2>
                 <h3 class="tagline">Machine Learning | Gen AI | NLP | LLMs | Computer Vision</h3>
@@ -41,9 +41,9 @@
         </div>
 
         <nav class="page-menu">
-            <a href="/" {% if page.url=='/home/' %}class="active" {% endif %}>Home</a>
-            <a href="/experience" {% if page.url=='/projects/' %}class="active" {% endif %}>Experience</a>
-            <a href="/projects" {% if page.url=='/certificates/' %}class="active" {% endif %}>Projects</a>
+            <a href="/" class="page-menu-link {% if page.url == '/' %}active{% endif %}">Home</a>
+            <a href="/experience/" class="page-menu-link {% if page.url contains '/experience' %}active{% endif %}">Work Experience</a>
+            <a href="/key-projects/" class="page-menu-link {% if page.url contains '/key-projects' %}active{% endif %}">Key Projects</a>
         </nav>
     </header>
 

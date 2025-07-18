@@ -102,6 +102,14 @@ h3 {
     transition: all 0.2s ease-in-out;
 }
 
+.page-menu a.active {
+    background-color: white;
+    color: #333;
+    border-color: #fff;
+    box-shadow: 0 0 0 2px white inset;
+    pointer-events: none;
+}
+
 /* header top */
 .header-top {
     display: flex;
@@ -210,7 +218,7 @@ h3 {
     }
 }
 
-/************* style for projects page *********************************/
+/************* style for projects overview page *********************************/
 .projects {
     display: flex;
     flex-direction: column;
@@ -223,4 +231,15 @@ h3 {
     height: auto;
     margin: 10px 0;
     border-radius: 8px;
+}
+
+/************ style for individual project pages ******************/
+.project-details {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+.project-details h1, .project-details h3 {
+    text-align: left;
 }

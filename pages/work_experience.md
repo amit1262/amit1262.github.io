@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work Experience
-permalink: /experience
+permalink: /experience/
 ---
 
 <div id="experience" class="tab-content active">
