@@ -5,7 +5,7 @@ permalink: /key-projects/llm-based-mapping/
 ---
 
 <div class="project-details">
-    <h1>LLM-based Cross-Domain Data Mapping</h1>
+    <h2>LLM-based Cross-Domain Data Mapping</h2>
     <h3>Problem Statement </h3>
     <p>Medical research thrives on <strong>data standardization</strong>. But in the real world, data is messy — especially
         in healthcare.</p>

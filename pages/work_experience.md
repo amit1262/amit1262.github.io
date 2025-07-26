@@ -49,7 +49,7 @@ permalink: /experience/
             <strong>Amit S</strong>, Sidharta A. Wear & Tear Framework: An AI-based Framework to analyze defects in used products.
         </li>
         <li>
-            <strong>Amit S</strong>, Trung C, Jin Han. Novel data augmentation system for end-of-life products.
+            <strong>Amit S</strong>, Trung C, Jin Han. System and Method for Augmenting Data to Estimate a State of a Product <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025119480">[Link]</a>
         </li>
         <li>
             <strong>Amit S</strong>, Bruce L, Kevin O. System and method for estimating a state-of-health value of a product for a disassembly process. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025087538">[Link]</a>

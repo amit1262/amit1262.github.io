@@ -132,13 +132,14 @@ h3 {
 /* Social Icons */
 .social-icons a {
     font-size: 16px;
-    text-decoration: none;
+    text-decoration: underline;
     transition: transform 0.2s ease-in-out;
     color: white;
+    cursor: pointer;
 }
 
 .social-icons a:hover {
-    transform: scale(1.1);
+    transform: scale(1.5);
     /* Optional zoom effect */
 }
 
@@ -232,13 +233,23 @@ h3 {
     margin: 10px 0;
     border-radius: 8px;
 }
-
+.project-summary h3 {
+    text-align: left;
+}
+.project-summary h3 a {
+    color: #0366d6;
+    text-decoration: underline;
+    text-align: left;
+}
 /************ style for individual project pages ******************/
 .project-details {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 0px;
     padding: 20px;
+    padding-top: 10px;
+    margin-top: 0;
+    color: #666;
 }
 .project-details h1, .project-details h3 {
     text-align: left;
