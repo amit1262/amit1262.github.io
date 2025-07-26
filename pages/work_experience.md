@@ -40,22 +40,22 @@ permalink: /experience/
             <strong>Amit S</strong>, Archan M, Vengateswaran S, Youngki L. System for object identification and content quantity estimation through use of thermal and visible spectrum images. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=SG329201629">[Link]</a>
         </li>
         <li>
-            Tridib M, <strong>Amit K</strong>, Deepthi C, Koustuv D, Anirban M. Methods and Systems for transmitting information generated for events. <a target="_blank" href="https://patents.google.com/patent/US20170085624A1">[Link]</a>
+            Tridib M, <strong>Amit K</strong>, Deepthi C, Koustuv D, Anirban M. Methods and systems for transmitting information generated for events. <a target="_blank" href="https://patents.google.com/patent/US20170085624A1">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Sidharta A, Trung C. 3D features based object identification and alignment system for used end-of-life products. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024188414">[Link]</a>
+            <strong>Amit S</strong>, Sidharta A, Trung C. System and method for object identification <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024188414">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Sidharta A. Wear & Tear Framework: An AI-based Framework to analyze defects in used products.
+            <strong>Amit S</strong>, Sidharta A. Wear & tear Framework: An AI-based framework to analyze defects in used products.
         </li>
         <li>
-            <strong>Amit S</strong>, Trung C, Jin Han. System and Method for Augmenting Data to Estimate a State of a Product <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025119480">[Link]</a>
+            <strong>Amit S</strong>, Trung C, Jin Han. System and method for augmenting data to estimate a state of a product <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025119480">[Link]</a>
         </li>
         <li>
             <strong>Amit S</strong>, Bruce L, Kevin O. System and method for estimating a state-of-health value of a product for a disassembly process. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025087538">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Toan M, Vinh P. Method and system for generating datasets for training a DNN.
+            <strong>Amit S</strong>, Toan M, Vinh P. Method and system for generating datasets for training a DNN. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025124706">[Link]</a> 
         </li>
     </ol>
 </div>
