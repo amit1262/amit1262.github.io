@@ -249,8 +249,30 @@ h3 {
     padding: 20px;
     padding-top: 10px;
     margin-top: 0;
-    color: #666;
+    color: white;
 }
 .project-details h1, .project-details h3 {
     text-align: left;
+}
+
+/* Skills Section Styles */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.skill-badge {
+    background-color: #e0f0ff;
+    color: #005a9c;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    transition: background-color 0.3s;
+}
+
+.skill-badge:hover {
+    background-color: #cbe4ff;
 }

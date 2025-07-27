@@ -13,6 +13,23 @@ permalink: /
         sensing modalities including RGB/visible-light cameras, infrared (IR) cameras, magnetic switches, audio
         sensors, RADAR/LiDAR & air-quality sensors.
     </p>
+    <!-- Skills Section -->
+    <h3>Skills</h3>
+    <div class="skills-container">
+        <span class="skill-badge">Deep Learning</span>
+        <span class="skill-badge">Machine Learning</span>
+        <span class="skill-badge">Large Language Models (LLMs)</span>
+        <span class="skill-badge">Generative AI</span>
+        <span class="skill-badge">Computer Vision</span>
+        <span class="skill-badge">AI Agents</span>
+        <span class="skill-badge">LangChain, LangGraph, LangSmith, CrewAI</span>
+        <span class="skill-badge">Prompt Engineering</span>
+        <span class="skill-badge">IoT Systems</span>
+        <span class="skill-badge">MLOps</span>
+        <span class="skill-badge">Docker</span>
+        <span class="skill-badge">Git</span>
+        <span class="skill-badge">Python</span>
+    </div>
     <h3>Education</h3>
     <p style="font-family: Calibri, sans-serif;">
         <b>PhD in Computer Science (2015 – 2021)</b> <br />

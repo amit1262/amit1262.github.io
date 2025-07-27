@@ -9,27 +9,39 @@ permalink: /experience/
     <ul>
         <li>
             <strong> Scientist, Data4Life Asia, Singapore </strong> | Sep 2024 – Present <br>
-            Explain your role here
+            <ul style="list-style-type: square;">
+                <li> 
+                    Network studies empower data-driven decision-making in healthcare research.
+                    However, conducting these studies often requires writing complex code - a task many clinical researchers may not be equipped to handle.
+                    Domain-specific agentic AI systems can bridge this gap by providing intelligent, accurate, and highly customized code suggestions based on natural language instructions, enabling clinical researchers to focus on insights rather than implementation.  </li>
+                <li> Integrating LLMs for mapping non-standard, noisy datasets to standard OMOP CDM datasets. Currently, this process is manual and cosumes a lot of time. Using language models can save upto 40% of time.  </li>
+            </ul>
         </li>
         <li>
             <strong> Research Scientist, Bosch Research, Singapore </strong> | Dec 2021 - Sep 2024 <br>
-            Explain your role here
+            <ul style="list-style-type: square;">
+                <li>
+                    Automated Disassembly for End-of-Life Products:
+                    Designed and implemented AI systems to automatically analyze the state-of-health of components, including defect detection, classification, and severity estimation. This analysis enables accurate estimation of the component’s residual value for recycling. <br/>
+                    This work led to 8 internal invention reports, 6 of which were converted into international patent applications. 
+                </li>
+                <li>
+                    AI-based Prediction of End-of-Life for Vehicle Air Filters:
+                    Developed machine learning algorithms to predict the remaining useful life of air filters in vehicles using optical sensor data.
+                </li>
+            </ul>
+        </li> <br/>
+        <li>
+            <strong> Founder-in-Residence, Entrepreneur First Singapore </strong> | Feb 2021 – Dec 2021 <br/><br/>
         </li>
         <li>
-            <strong> Founder-in-Residence, Entrepreneur First Singapore </strong> | Feb 2021 – Dec 2021 <br>
-            Explain your role here
+            <strong> Member of Technical Staff, Mojo Networks, India </strong> | Jun 2014 – July 2015 <br/><br/>
         </li>
         <li>
-            <strong> Member of Technical Staff, Mojo Networks, India </strong> | Jun 2014 – July 2015 <br>
-            Explain your role here
-        </li>
-        <li>
-            <strong> Research Intern, Xerox Research Center, India </strong> Dec 2013 – May 2014 <br>
-            Explain your role here
+            <strong> Research Intern, Xerox Research Center, India </strong> Dec 2013 – May 2014 <br/><br/>
         </li>
         <li>
             <strong> Research Intern, IBM Research Lab, India </strong> May 2013 – Aug 2013 <br>
-            Explain your role here
         </li>
     </ul> 
 </div>
@@ -60,13 +72,13 @@ permalink: /experience/
     </ol>
 </div>
 <div id="publications" class="tab-content active">
-    <h3>Publications</h3>
+    <h3>Peer-Reviewed Publications</h3>
     <ol>
         <li>
             <strong>Amit Sharma</strong>, Vithurson Subasharan, Manoj Gulati, Dhanuja Wanniarachchi, and Archan Misra. 2025. CollabCam: Collaborative Inference and Mixed-Resolution Imaging for Energy-Efficient Pervasive Vision. ACM Trans. Internet Things (May 2025). <a href="https://doi.org/10.1145/3736420" target="_blank">[pdf]</a>
         </li>
         <li>
-            <strong>Amit Sharma</strong>, Archan Misra, Vengateswaran Subramaniam, and Youngki Lee. 2019. SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing. In Proceedings of the 17th Conference on Embedded Networked Sensor Systems (SenSys ’19). ACM, New York, NY, USA, 245-257 [core A* | acceptance rate 18%] <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/4646/">[pdf]</a>
+            <strong>Amit Sharma</strong>, Archan Misra, Vengateswaran Subramaniam, and Youngki Lee. 2019. SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing. In Proceedings of the 17th Conference on Embedded Networked Sensor Systems (SenSys ’19). ACM, New York, NY, USA, 245-257 [core A* | acceptance rate 18%] <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/4646/">[pdf]</a> <a target="_blank" href="https://www.youtube.com/watch?v=Scd7vlfSipw">[video]</a>
         </li>
         <li>
             <strong>Amit Sharma</strong> and Youngki Lee. 2017. AudioSense: sound-based shopper behavior analysis system. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp ’17). ACM, Maui, Hawaii. <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/3839/">[pdf]</a>
@@ -93,4 +105,34 @@ permalink: /experience/
             Kuldeep Y, <strong>Amit K</strong>, Vinayak N et al “A tale of people’s movement patterns in developing countries”, Poster at Third International Conference on the Analysis of Mobile Phone Datasets (NetMob 2013) at MIT. <a target="_blank" href="">[pdf]</a>
         </li>
     </ol>
+</div>
+
+<div id="teaching-experience" class="tab-content active">
+    <h3>Teaching Experience</h3>
+    <ul>
+        <li>
+            <strong>Graduate Instructor, SMU</strong> | Aug 2019 – Dec 2019<br>
+            Research Topics in Information Systems (ART)
+        </li>
+        <li>
+            <strong>Research Assistant, SMU</strong> | Sep 2020 – Dec 2020<br>
+            Living Analytics Research Center (LARC)
+        </li>
+        <li>
+            <strong>Teaching Assistant, SMU</strong>
+            <ul>
+                <li>Jan 2017 – Apr 2017: Computational Thinking (IS-1702)</li>
+                <li>Aug 2017 – Dec 2017: Interaction Design & Prototyping (IS-306)</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Teaching Assistant, IIIT Delhi</strong>
+            <ul>
+                <li>Aug 2012 – Dec 2012: System Management (CS 131)</li>
+                <li>Jan 2013 – May 2013: Computer Organization (CS 121)</li>
+                <li>Aug 2013 – Dec 2013: Operating Systems (CS 231)</li>
+            </ul>
+        </li>
+    </ul>
+</div>
 <script src="/scripts.js"></script>
