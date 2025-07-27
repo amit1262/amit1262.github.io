@@ -143,6 +143,13 @@ h3 {
     /* Optional zoom effect */
 }
 
+.social-icons a:not(:last-child)::after {
+    content: "|";
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    color: white;
+}
+
 /* Ensure the header is responsive */
 .page-header {
     padding: 10px;
