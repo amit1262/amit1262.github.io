@@ -85,8 +85,8 @@ h3 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 12px;
-    padding: 10px 0;
+    gap: 8px;
+    padding: 4px 0;
     font-size: 16px;
 }
 
@@ -94,11 +94,12 @@ h3 {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding: 8px 12px;
+    padding: 4px 12px;
     font-size: 16px;
     border: 2px solid white;
-    border-radius: 6px;
+    border-radius: 4px;
     transition: all 0.2s ease-in-out;
+    margin:0;
 }
 
 .page-menu a.active {
@@ -164,7 +165,7 @@ h3 {
 
 /* Make the profile image responsive */
 .profile {
-    max-height: 130px;
+    max-height: 110px;
     /* Limit the maximum height */
     width: auto;
     /* Maintain aspect ratio */
@@ -178,17 +179,17 @@ h3 {
 .name {
     font-size: 2rem;
     /* Adjust font size for the name */
-    margin: 5px 0;
+    margin: 0;
 }
 
 .tagline {
     font-size: 1.2rem;
     /* Adjust font size for the tagline */
-    margin: 5px 0;
+    margin: 0;
 }
 
 /* Media query for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 850px) {
     .page-header {
         padding: 5px;
         /* Reduce padding further for smaller screens */
@@ -208,21 +209,47 @@ h3 {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        gap: 8px;
+        padding: 8px;
     }
-
     .profile {
-        max-width: 60%;
-        height: auto;
+        max-height: 100px;
+        /* Limit the maximum height */
+        width: auto;
+        /* Maintain aspect ratio */
+        max-width: 100%;
+        /* Ensure it doesn't overflow the screen */
+        margin-bottom: 0px;
     }
-
     .header-top {
         align-items: center;
     }
 
     .social-icons a {
         display: block;
-        margin-bottom: 6px;
+        margin-bottom: 3px;
     }
+}
+
+@media (max-width: 600px) {
+  .page-menu {
+    gap: 6px;
+    padding: 2px 0;
+  }
+
+  .page-menu a {
+    font-size: 14px;
+    padding: 4px 8px;
+  }
+  .profile {
+      max-height: 100px;
+      /* Limit the maximum height */
+      width: auto;
+      /* Maintain aspect ratio */
+      max-width: 100%;
+      /* Ensure it doesn't overflow the screen */
+      margin-bottom: 0px;
+  }
 }
 
 /************* style for projects overview page *********************************/
@@ -247,6 +274,47 @@ h3 {
     text-decoration: underline;
     text-align: left;
 }
+/* Link buttons */
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+.project-links a {
+    background-color: #005a9c;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+.project-links a:hover {
+    background-color: #007bff;
+}
+/* Responsive adjustments for small screens */
+@media (max-width: 600px) {
+    .project-links {
+        align-items: flex-start;
+    }
+    .project-links a {
+        width: fit-content;
+    }
+}
+ol.styled-number {
+    /* Numbers are inside the content block */
+    padding-left: 0;
+    /* Remove left padding */
+    margin-left: 0;
+    /* Remove left margin */
+}
+ol.styled-number > li::marker {
+    color: #0366d6;
+    font-size: 1.17em;
+    /* Same as h3 */
+}
 /************ style for individual project pages ******************/
 .project-details {
     display: flex;
@@ -255,7 +323,6 @@ h3 {
     padding: 20px;
     padding-top: 10px;
     margin-top: 0;
-    color: white;
 }
 .project-details h1, .project-details h3 {
     text-align: left;

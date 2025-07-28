@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Agentic AI System for No-Code Network Study Design
-permalink: /key-projects/agentic_ai_network_study/
+title: Agentic AI System
+permalink: /key-projects/agentic_ai_network_study
 ---
 
 <div class="project-details">
