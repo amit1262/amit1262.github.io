@@ -31,5 +31,4 @@ permalink: /key-projects/agentic_ai_network_study
             ready to be executed using Strategus pipelines.
         </li>
     </ul>
-    <p><strong> System Architecture: </strong></p>
 </div>

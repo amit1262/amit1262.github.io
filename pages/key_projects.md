@@ -8,7 +8,7 @@ permalink: /key-projects/
   <ol class="styled-number">
     <li>
       <article class="project-summary">
-      <h3><a href="/key-projects/agentic_ai_network_study/">Agentic AI System for No-Code Network Study in Healthcare</a></h3>
+      <h3><a href="/key-projects/agentic_ai_network_study/">Agentic AI System for No-Code Network Study in Healthcare (Ongoing)</a></h3>
       <p>Network studies allow clinical researchers to run the same data analysis across multiple institutions or databases using a common data model, ensuring consistency and reproducibility. Traditionally, setting up such studies requires writing complex R code, which can be a barrier for clinical researchers with limited programming experience.</p>
       <p> <strong> Key Contributions of this project: </strong></p>
       <ul>
@@ -18,16 +18,18 @@ permalink: /key-projects/
       <p> <strong> Key Technologies: </strong> CrewAI framework, Python, Model Context Protocol (MCP), Strategus (OHDSI) </p>
     </article>
     </li>
-    <li>
+    <!-- <li>
       <article class="project-summary">
         <h3><a href="/key-projects/llm-based-mapping">LLM-based Cross-Domain Data Mapping</a></h3>
         <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
       </article>
-    </li>
+    </li> -->
     <li>
       <article class="project-summary">
-        <h3><a href="/key-projects/natural_language_video_analysis.html">Natural Language based Event Detection in Videos</a></h3>
-        <p>This project utilizes a language model to map data from non-omop format to OHDSI OMOP format</p>
+        <h3><a href="/key-projects/video-events-detection/">Video Analytics System for Natural Language-Driven Surveillance</a></h3>
+        <p>
+          This project designs a modular, AI-powered video analytics system capable of responding to natural language queries. It combines object detection (YOLO, GroundingDINO), tracking (DeepSORT), action recognition (SlowFast, TimeSformer), and fine-tuned VideoLLMs. A custom query agent translates user queries into subtasks and invokes models for real-time insights. The system targets industrial scenes (e.g., ports), addressing challenges like occlusion, poor lighting, and ambiguous motion patterns.
+        </p>
       </article>
     </li>
     <li>
