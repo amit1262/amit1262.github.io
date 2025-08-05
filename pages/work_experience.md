@@ -78,22 +78,22 @@ permalink: /experience/
             <strong>Amit Sharma</strong>, Vithurson Subasharan, Manoj Gulati, Dhanuja Wanniarachchi, and Archan Misra. 2025. CollabCam: Collaborative Inference and Mixed-Resolution Imaging for Energy-Efficient Pervasive Vision. ACM Trans. Internet Things (May 2025). <a href="https://doi.org/10.1145/3736420" target="_blank">[pdf]</a>
         </li>
         <li>
-            <strong>Amit Sharma</strong>, Archan Misra, Vengateswaran Subramaniam, and Youngki Lee. 2019. SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing. In Proceedings of the 17th Conference on Embedded Networked Sensor Systems (SenSys ’19). ACM, New York, NY, USA, 245-257 [core A* | acceptance rate 18%] <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/4646/">[pdf]</a> <a target="_blank" href="https://www.youtube.com/watch?v=Scd7vlfSipw">[video]</a>
+            <strong>Amit Sharma</strong>, Archan Misra, Vengateswaran Subramaniam, and Youngki Lee. 2019. SmrtFridge: IoT-based, user interaction-driven food item & quantity sensing. In Proceedings of the 17th Conference on Embedded Networked Sensor Systems (SenSys ’19). ACM, New York, NY, USA, 245-257 [core A* | acceptance rate 18%] <a target="_blank" href="https://dl.acm.org/doi/10.1145/3356250.3360028">[pdf]</a> <a target="_blank" href="https://www.youtube.com/watch?v=Scd7vlfSipw">[video]</a>
         </li>
         <li>
-            <strong>Amit Sharma</strong> and Youngki Lee. 2017. AudioSense: sound-based shopper behavior analysis system. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp ’17). ACM, Maui, Hawaii. <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/3839/">[pdf]</a>
+            <strong>Amit Sharma</strong> and Youngki Lee. 2017. AudioSense: sound-based shopper behavior analysis system. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp ’17). ACM, Maui, Hawaii. <a target="_blank" href="https://dl.acm.org/doi/10.1145/3123024.3124440">[pdf]</a>
         </li>
         <li>
-            <strong>Amit Sharma</strong> and Youngki Lee. 2016. Demo: Sound Localization using Smartphone. In Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion (MobiSys ’16 Companion). Association for Computing Machinery, Singapore, 119. <a target="_blank" href="https://ink.library.smu.edu.sg/sis_research/3282/">[pdf]</a>
+            <strong>Amit Sharma</strong> and Youngki Lee. 2016. Demo: Sound Localization using Smartphone. In Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services Companion (MobiSys ’16 Companion). Association for Computing Machinery, Singapore, 119. <a target="_blank" href="https://dl.acm.org/doi/10.1145/2938559.2938584">[pdf]</a>
         </li>
         <li>
-            Yadav Kuldeep, <strong>Kumar Amit</strong>, Naik Vinayak, “Characterizing mobility patterns of people in developing countries using their mobile phone data,“ Communication Systems and Networks (IEEE COMSNETS), 2014 Sixth International Conference. <a target="_blank" href="https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/109/IIITD-TR-2013-002.pdf?sequence=1&isAllowed=y">[pdf]</a>
+            Yadav Kuldeep, <strong>Kumar Amit</strong>, Naik Vinayak, “Characterizing mobility patterns of people in developing countries using their mobile phone data,“ Communication Systems and Networks (IEEE COMSNETS), 2014 Sixth International Conference. <a target="_blank" href="https://ieeexplore.ieee.org/document/6734892">[pdf]</a>
         </li>
         <li>
             Tridib Mukherjee, <strong>Amit Kumar</strong> et al “Benchmark based Performance Characterization and Scalable Design of Sensing-as-a-Service Platform” poster in ACM/USENIX MIDDLEWARE 2014 <a target="_blank" href="https://doi.org/10.1145/2678508.2678522">[pdf]</a>
         </li>
         <li>
-            Tridib Mukherjee, <strong>Amit Kumar</strong> et al “Benchmark based Performance Characterization and Scalable Design of Sensing-as-a-Service Platform” in ACM SAC 2014 Mobile Computing and Applications track. <a target="_blank" href="">[pdf]</a>
+            Tridib Mukherjee, <strong>Amit Kumar</strong> et al “Performance characterization and scalable design of sensing-as-a-service platform” in ACM SAC 2015 Mobile Computing and Applications track. <a target="_blank" href="https://dl.acm.org/doi/10.1145/2695664.2696042">[pdf]</a>
         </li>
         <li>
             Tridib Mukherjee, <strong>Amit Kumar</strong> et al, “CityZen: A Cost-Effective City Management System with Incentive-driven Resident Engagement”, IEEE Mobile Data Management (MDM) 2014 15th International conference <a target="_blank" href="https://doi.org/10.1109/MDM.2014.41">[pdf]</a>
@@ -102,7 +102,7 @@ permalink: /experience/
             Vigneshwaran S, <strong>Amit Kumar</strong>, Vinayak Naik, Dipanjan Chakraborty, Archan Misra et al “ConferenceSense: monitoring of public events using phone sensors” in UbiComp ’13 Adjunct <a target="_blank" href="https://doi.org/10.1145/2494091.2499775">[pdf]</a>
         </li>
         <li>
-            Kuldeep Y, <strong>Amit K</strong>, Vinayak N et al “A tale of people’s movement patterns in developing countries”, Poster at Third International Conference on the Analysis of Mobile Phone Datasets (NetMob 2013) at MIT. <a target="_blank" href="">[pdf]</a>
+            Kuldeep Y, <strong>Amit K</strong>, Vinayak N et al “A tale of people’s movement patterns in developing countries”, Poster at Third International Conference on the Analysis of Mobile Phone Datasets (NetMob 2013) at MIT. <a target="_blank" href="https://perso.uclouvain.be/vincent.blondel/netmob/2013/NetMob2013-program.pdf#page=16">[pdf]</a>
         </li>
     </ol>
 </div>

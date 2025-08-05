@@ -7,11 +7,7 @@ permalink: /
 <div id="intro" class="tab-content active">
     <h3>Background</h3>
     <p style="font-family: Calibri, sans-serif;">
-        I am a researcher working in the domains of generative AI (GenAI), deep learning, computer vision, and
-        IoT systems. I have hands-on experience (5+ years) developing ML algorithms, computer vision techniques,
-        customization and transfer-learning of various deep learning models. So far, I have worked on multiple
-        sensing modalities including RGB/visible-light cameras, infrared (IR) cameras, magnetic switches, audio
-        sensors, RADAR/LiDAR & air-quality sensors.
+        I am an AI researcher with over 5 years of hands-on experience in cutting-edge areas of Artificial Intelligence, including Generative AI, Deep Learning, AI Agents, Large Language Models (LLMs), and Multimodal Large Language Models (MLLMs). My work spans across domains such as Computer Vision, Natural Language Processing, and IoT Sensor Systems.
     </p>
     <!-- Skills Section -->
     <h3>Skills</h3>
@@ -24,11 +20,16 @@ permalink: /
         <span class="skill-badge">AI Agents</span>
         <span class="skill-badge">LangChain, LangGraph, LangSmith, CrewAI</span>
         <span class="skill-badge">Prompt Engineering</span>
-        <span class="skill-badge">IoT Systems</span>
+        <span class="skill-badge">AWS, Boto3, Azure Cloud, OpenAI, HuggingFace, Ollama</span>
+        <span class="skill-badge">MCP</span>
+        <span class="skill-badge">Image, Video, Audio Processing</span>
+        <span class="skill-badge">IoT Sensor Systems</span>
+        <span class="skill-badge">ML System Design</span>
         <span class="skill-badge">MLOps</span>
         <span class="skill-badge">Docker</span>
         <span class="skill-badge">Git</span>
         <span class="skill-badge">Python</span>
+        <span class="skill-badge">Project Management</span>
     </div>
     <h3>Education</h3>
     <p style="font-family: Calibri, sans-serif;">
@@ -45,29 +46,29 @@ permalink: /
     </p>
     <h3>Professional Certificates</h3>
     <div class="cert-gallery">
-        <a href="certificates/dl_specialization.webp" target="_blank">
-            <img src="certificates/dl_specialization.webp" alt="ML Certificate" />
+        <a href="docs/dl_specialization.webp" target="_blank">
+            <img src="docs/dl_specialization.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/ml_production.webp" target="_blank">
-            <img src="certificates/ml_production.webp" alt="ML Certificate" />
+        <a href="docs/ml_production.webp" target="_blank">
+            <img src="docs/ml_production.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/cnn.webp" target="_blank">
-            <img src="certificates/cnn.webp" alt="ML Certificate" />
+        <a href="docs/cnn.webp" target="_blank">
+            <img src="docs/cnn.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/sequence_models.webp" target="_blank">
-            <img src="certificates/sequence_models.webp" alt="ML Certificate" />
+        <a href="docs/sequence_models.webp" target="_blank">
+            <img src="docs/sequence_models.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/intro_genAI.webp" target="_blank">
-            <img src="certificates/intro_genAI.webp" alt="ML Certificate" />
+        <a href="docs/intro_genAI.webp" target="_blank">
+            <img src="docs/intro_genAI.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/hyperparameters.webp" target="_blank">
-            <img src="certificates/hyperparameters.webp" alt="ML Certificate" />
+        <a href="docs/hyperparameters.webp" target="_blank">
+            <img src="docs/hyperparameters.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/strcturing_ml_projects.webp" target="_blank">
-            <img src="certificates/strcturing_ml_projects.webp" alt="ML Certificate" />
+        <a href="docs/strcturing_ml_projects.webp" target="_blank">
+            <img src="docs/strcturing_ml_projects.webp" alt="ML Certificate" />
         </a>
-        <a href="certificates/neural_net_dl.webp" target="_blank">
-            <img src="certificates/neural_net_dl.webp" alt="ML Certificate" />
+        <a href="docs/neural_net_dl.webp" target="_blank">
+            <img src="docs/neural_net_dl.webp" alt="ML Certificate" />
         </a>
     </div>
 </div>
