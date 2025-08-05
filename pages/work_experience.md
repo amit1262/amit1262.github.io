@@ -49,25 +49,31 @@ permalink: /experience/
     <h3>International Patents</h3>
     <ol>
         <li>
-            <strong>Amit S</strong>, Archan M, Vengateswaran S, Youngki L. System for object identification and content quantity estimation through use of thermal and visible spectrum images. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=SG329201629">[Link]</a>
+            <strong>Amit S</strong>, Jin Han J, Trung C. System and method for augmenting data to estimate a state of a product. Patent WO2025119480. Robert Bosch Gmbh. Filed Dec 7, 2023. Published Jun 12, 2025. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025119480">[Link]</a>
         </li>
         <li>
-            Tridib M, <strong>Amit K</strong>, Deepthi C, Koustuv D, Anirban M. Methods and systems for transmitting information generated for events. <a target="_blank" href="https://patents.google.com/patent/US20170085624A1">[Link]</a>
+            <strong>Amit S</strong>, Kevin O, Bruce L. System and method for estimating a state-of-health value of a product for a disassembly process. Patent WO2025087538. Robert Bosch Gmbh. Filed Oct 27, 2023. Published May 1, 2025. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025087538">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Sidharta A, Trung C. System and method for object identification <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024188414">[Link]</a>
+            Toan P, <strong>Amit S</strong>, Vinh N. Method and system for generating datasets for training a DNN. Patent WO2025124706. Robert Bosch Gmbh. Filed Dec 13, 2023. Published Jun 19, 2025. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025124706">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Sidharta A. Wear & tear Framework: An AI-based framework to analyze defects in used products.
+            <strong>Amit S</strong>, Sidharta A. Wear & Tear Framework: An AI-based framework to analyze defects in used products. Robert Bosch Gmbh. Filed Apr 12, 2025.
         </li>
         <li>
-            <strong>Amit S</strong>, Trung C, Jin Han. System and method for augmenting data to estimate a state of a product <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025119480">[Link]</a>
+            <strong>Amit S</strong>, Sidharta A, Trung C. System and method for object identification. Patent WO2024188414. Robert Bosch Gmbh. Filed Mar 10, 2023. Published Sep 19, 2024. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024188414">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Bruce L, Kevin O. System and method for estimating a state-of-health value of a product for a disassembly process. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025087538">[Link]</a>
+            <strong>Amit S</strong>, Archan M, Youngki L, Venket S. System for object identification and content quantity estimation through use of thermal and visible spectrum images. Patent SG10201910482V. Singapore Management University. Filed Nov 8, 2019. Published Jun 29, 2021. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=SG329201629">[Link]</a>
         </li>
         <li>
-            <strong>Amit S</strong>, Toan M, Vinh P. Method and system for generating datasets for training a DNN. <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025124706">[Link]</a> 
+            Tridib M, <strong>Amit S</strong>, Deepthi C, Koustuv D, Anirban M. Methods and Systems for transmitting information generated for events. Patent US20170085624. Xerox Corporation. Filed Sep 18, 2015. Published Mar 23, 2017. 
+            <a target="_blank" href="https://patentscope.wipo.int/search/en/detail.jsf?docId=US201393105">[Link]</a>
         </li>
     </ol>
 </div>
