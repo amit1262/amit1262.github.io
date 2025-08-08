@@ -9,13 +9,16 @@ permalink: /key-projects/
     <li>
       <article class="project-summary">
       <h3><a href="/key-projects/agentic_ai_network_study/">Agentic AI System for No-Code Network Study in Healthcare (Ongoing)</a></h3>
+      <div class="project-links">
+        <a href="https://github.com/amit1262/chatbot" target="_blank">GitHub</a>
+      </div>
       <p>Network studies allow clinical researchers to run the same data analysis across multiple institutions or databases using a common data model, ensuring consistency and reproducibility. Traditionally, setting up such studies requires writing complex R code, which can be a barrier for clinical researchers with limited programming experience.</p>
       <p> <strong> Key Contributions of this project: </strong></p>
       <ul>
         <li> A user-friendly system that uses multiple AI agents to enable researchers to design network studies using natural language</li>
         <li> Validation of final study specification for integrity and completeness </li>
       </ul>
-      <p> <strong> Key Technologies: </strong> CrewAI framework, Python, Model Context Protocol (MCP), Strategus (OHDSI) </p>
+      <p> <strong> Key Technologies: </strong> LangChain, LangGraph frameworks, Python, Model Context Protocol (MCP), Strategus (OHDSI) </p>
     </article>
     </li>
     <!-- <li>

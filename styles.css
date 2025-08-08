@@ -50,6 +50,17 @@ h3 {
     display: block;
 }
 
+/* Improve readability for lists ONLY on the work experience page */
+.work-experience-page ul, .work-experience-page ol {
+    margin-bottom: 1.2em;
+}
+
+.work-experience-page li {
+    margin-bottom: 0.7em;
+    line-height: 1.7;
+    
+}
+
 .projects ul {
     list-style-type: square;
     padding-left: 1.5rem;

@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /experience/
 ---
 
-<div id="experience" class="tab-content active">
+<div id="experience" class="tab-content active work-experience-page">
     <h3>Work Experience</h3>
     <ul>
         <li>
@@ -45,7 +45,7 @@ permalink: /experience/
         </li>
     </ul> 
 </div>
-<div id="patents" class="tab-content active">
+<div id="patents" class="tab-content active work-experience-page">
     <h3>International Patents</h3>
     <ol>
         <li>
@@ -77,7 +77,7 @@ permalink: /experience/
         </li>
     </ol>
 </div>
-<div id="publications" class="tab-content active">
+<div id="publications" class="tab-content active work-experience-page">
     <h3>Peer-Reviewed Publications</h3>
     <ol>
         <li>
