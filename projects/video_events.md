@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmrtFridge System
-permalink: /key-projects/video-events-detection
+permalink: /key-projects/video-events-detection/
 ---
 
 <div class="project-details">

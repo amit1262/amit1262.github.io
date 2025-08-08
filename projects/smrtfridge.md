@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmrtFridge System
-permalink: /key-projects/smrtfridge
+permalink: /key-projects/smrtfridge/
 ---
 
 <div class="project-details">

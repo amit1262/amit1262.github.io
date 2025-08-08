@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agentic AI System
-permalink: /key-projects/agentic_ai_network_study
+permalink: /key-projects/agentic_ai_network_study/
 ---
 
 <div class="project-details">
