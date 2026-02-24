@@ -6,9 +6,6 @@ permalink: /key-projects/agentic_ai_network_study/
 
 <div class="project-details">
     <h3>Agentic AI System for No-Code Network Study in Healthcare </h3>
-    <div class="project-links">
-        <a href="https://github.com/amit1262/chatbot" target="_blank">GitHub</a>
-    </div>
     <p><strong> Problem Background: </strong> Network studies enable researchers to run the same analysis across multiple institutions using a shared 
         data model like OMOP CDM. This ensures consistency while preserving local data privacy. However, setting up such studies 
         typically requires writing complex R code, which poses a barrier for clinical researchers without programming experience. 

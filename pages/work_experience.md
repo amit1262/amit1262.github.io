@@ -11,22 +11,40 @@ permalink: /experience/
             <strong> Scientist, Data4Life Asia, Singapore </strong> | Sep 2024 – Present <br>
             <ul style="list-style-type: square;">
                 <li> 
-                    Network studies empower data-driven decision-making in healthcare research.
-                    However, conducting these studies often requires writing complex code - a task many clinical researchers may not be equipped to handle.
-                    Domain-specific agentic AI systems can bridge this gap by providing intelligent, accurate, and highly customized code suggestions based on natural language instructions, enabling clinical researchers to focus on insights rather than implementation.  </li>
-                <li> Integrating LLMs for mapping non-standard, noisy datasets to standard OMOP CDM datasets. Currently, this process is manual and cosumes a lot of time. Using language models can save upto 40% of time.  </li>
+                    <em>Leading the development of an automated code generation system for healthcare research, building with:</em><br/>
+                    <ul style="list-style-type: circle;">
+                        <li>Advanced foundation models (GPT/Claude)</li>
+                        <li>Custom MCP servers</li>
+                        <li>Domain-aware RAG pipeline with structured medical knowledge</li>
+                        <li>Study templates and platform-specific constraints</li>
+                        <li>Validation layers for methodological alignment</li>
+                    </ul>
+                    <em>The system ensures reproducibility and significantly reduces manual programming effort.</em>
+                </li>
+                <li>
+                    <em>LLM-Based Data Mapping to OMOP CDM:</em><br/>
+                    Integrating LLMs for mapping non-standard, noisy datasets to standard OMOP CDM datasets.<br/>
+                    <em>This approach saves up to 40% of time compared to the current manual process.</em>
+                </li>
             </ul>
         </li>
         <li>
             <strong> Research Scientist, Bosch Research, Singapore </strong> | Dec 2021 - Sep 2024 <br>
             <ul style="list-style-type: square;">
                 <li>
-                    Automated Disassembly for End-of-Life Products:
-                    Designed and implemented AI systems to automatically analyze the state-of-health of components, including defect detection, classification, and severity estimation. This analysis enables accurate estimation of the component’s residual value for recycling. <br/>
-                    This work led to 8 internal invention reports, 6 of which were converted into international patent applications. 
+                    <em>Automated Disassembly for End-of-Life Products:</em><br/>
+                    Designed and implemented AI systems to automatically analyze components:
+                    <ul style="list-style-type: circle;">
+                        <li>State-of-health analysis</li>
+                        <li>Defect detection</li>
+                        <li>Classification</li>
+                        <li>Severity estimation</li>
+                    </ul>
+                    This analysis enables accurate estimation of the component's residual value for recycling.<br/>
+                    <em>This work led to 8 internal invention reports, 6 of which were converted into international patent applications.</em>
                 </li>
                 <li>
-                    AI-based Prediction of End-of-Life for Vehicle Air Filters:
+                    <em>AI-based Prediction of End-of-Life for Vehicle Air Filters:</em><br/>
                     Developed machine learning algorithms to predict the remaining useful life of air filters in vehicles using optical sensor data.
                 </li>
             </ul>
